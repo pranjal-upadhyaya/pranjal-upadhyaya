@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pranjal-upadhyaya
-- 👀 Coder par excellence
 - 💞️ Feel free to contact for collaborations
 - 📫 How to reach me rktpranjal@gmail.com
 
