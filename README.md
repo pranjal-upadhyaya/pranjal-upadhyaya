@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranjal-upadhyaya
-- 👀 I’m interested in python programming and physics
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on python projects dealing with Machine Learning for intermediate programmers
+- 👀 Coder par excellence
+- 💞️ Feel free to contact for collaborations
 - 📫 How to reach me rktpranjal@gmail.com
 
 <!---
